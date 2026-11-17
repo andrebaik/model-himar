@@ -1,0 +1,373 @@
+text,intent
+???,fallback
+Aku mau tahu pilihan produk yang tersedia.,tanya_menu
+"Halo, Himar Coffee",sapaan
+cara beli tiket event gimana?,tanya_pemesanan
+Boleh rekomendasikan menu favorit di Himar?,tanya_menu_favorit
+Apa penyebab terjadinya gempa bumi?,fallback
+Apakah boleh tahu harga minumannya?,tanya_harga
+Himar Coffee tutup jam berapa?,tanya_jam_buka
+ada link google maps nya?,tanya_lokasi
+Jam berapa kedainya mulai beroperasi?,tanya_jam_buka
+Apa itu machine learning?,fallback
+Boleh tahu daftar menu yang tersedia sekarang?,tanya_menu
+Himar Coffee dekat daerah mana?,tanya_lokasi
+Apa menu best seller Himar Coffee?,tanya_menu_favorit
+Ada alamat Google Maps-nya?,tanya_lokasi
+brp harga kopi disini?,tanya_harga
+Halo,sapaan
+Mengapa hujan bisa turun?,fallback
+berapa kurs dolar hari ini?,fallback
+Himar Coffee punya agenda acara apa?,tanya_event
+"Halo, ada orang?",sapaan
+Kalau mau beli minuman harus bagaimana?,tanya_pemesanan
+Boleh tahu daftar harga menunya?,tanya_harga
+Apa perbedaan RAM dan ROM?,fallback
+ada menu apa aja kak?,tanya_menu
+Aku mau tahu jadwal operasional kedai.,tanya_jam_buka
+Apa rekomendasi film horor yang bagus?,fallback
+Makasih banyak ya,pamitan
+Makasih,pamitan
+pelayanan nya jelek bgt,keluhan
+Menu andalan di sini apa?,tanya_menu_favorit
+Bisa lihat informasi acara Himar Coffee?,tanya_event
+Apa saja yang bisa dipesan dari menu?,tanya_menu
+Tolong refund pesanan saya,keluhan
+tiket live music berapa?,tanya_event
+Apakah Himar Coffee mengadakan acara rutin?,tanya_event
+"Aku bingung mau pesan apa, ada rekomendasi?",tanya_menu_favorit
+"hai, saya ingin bertanya",sapaan
+Cara menemukan lokasi Himar Coffee bagaimana?,tanya_lokasi
+"Saya mau pesan kopi, caranya bagaimana?",tanya_pemesanan
+Hi min,sapaan
+hari minggu buka?,tanya_jam_buka
+Boleh lihat katalog menu Himar Coffee?,tanya_menu
+Apa pengertian kecerdasan buatan?,fallback
+Di mana saya bisa melihat jadwal event?,tanya_event
+Apa Himar Coffee buka dari pagi?,tanya_jam_buka
+Bisa minta informasi harga produk?,tanya_harga
+Menu apa yang paling banyak dipesan pelanggan?,tanya_menu_favorit
+Selamat sore,sapaan
+Bisa tampilkan pilihan menu yang tersedia?,tanya_menu
+Kok lama banget pesanannya?,keluhan
+Bisa kasih tahu alamat Himar Coffee?,tanya_lokasi
+kapan ada coffee workshop?,tanya_event
+Bagaimana cara membuat program Python?,fallback
+Assalamualaikum,sapaan
+Gelasnya kotor,keluhan
+Apakah ada acara di Himar Coffee?,tanya_event
+Selamat pagi,sapaan
+Saya kecewa dengan pelayanannya,keluhan
+Kopi yang dijual harganya berapa?,tanya_harga
+Jam operasional kedainya bagaimana?,tanya_jam_buka
+bisa pesen lewat web ga?,tanya_pemesanan
+"Kalau pesan minuman, harganya berapa?",tanya_harga
+Apa saja kategori menu yang tersedia?,tanya_menu
+Siapa presiden pertama Indonesia?,fallback
+Harga menu Himar Coffee berapa saja?,tanya_harga
+Bagaimana cara membuat akun GitHub?,fallback
+hahaha,fallback
+Sampai nanti,pamitan
+Bisa kasih tahu harga minumannya?,tanya_harga
+Himar Coffee sedang mengadakan event apa?,tanya_event
+Terima kasih atas informasinya,pamitan
+mau pesen gimana caranya?,tanya_pemesanan
+ada promo weekend ga?,tanya_event
+Pelayanannya kurang ramah,keluhan
+Terima kasih,pamitan
+Berapa harga satu gelas kopi?,tanya_harga
+Untuk satu kopi perlu bayar berapa?,tanya_harga
+Pesanan GoFood saya tumpah,keluhan
+"Pagi, min",sapaan
+Menu yang wajib dicoba di Himar apa saja?,tanya_menu_favorit
+mahal ga sih di sini?,tanya_harga
+"Hai, min",sapaan
+Jadwal acara bulan ini ada apa saja?,tanya_event
+Ada event yang akan diselenggarakan dalam waktu dekat?,tanya_event
+rekomendasi kafe lain di Garut,fallback
+ok thanks,pamitan
+Kalau makan berdua kira-kira habis berapa?,tanya_harga
+"Aku ingin berkunjung, alamatnya di mana?",tanya_lokasi
+Apakah ada kegiatan khusus akhir pekan ini?,tanya_event
+Pesanan saya tidak lengkap,keluhan
+Kalau ke Himar sebaiknya pesan apa?,tanya_menu_favorit
+Kedai Himar Coffee berada di wilayah mana?,tanya_lokasi
+dadah,pamitan
+Apa perbedaan laptop dan komputer desktop?,fallback
+Apa ibu kota negara Jepang?,fallback
+Kapan jam operasional Himar Coffee?,tanya_jam_buka
+"Siang, min",sapaan
+Permisi kak,sapaan
+Apa saja pilihan menu di Himar?,tanya_menu
+Dah,pamitan
+qwerty,fallback
+Saya mau komplain soal pesanan saya,keluhan
+list menu dong min,tanya_menu
+Apakah sekarang masih buka?,tanya_jam_buka
+"Pesanan saya salah, yang datang beda",keluhan
+Bagaimana cara membuat daftar isi di Word?,fallback
+"kopinya pait bgt, kecewa",keluhan
+lokasi Himar Coffee dimana kak,tanya_lokasi
+tolong buatkan kode Python,fallback
+Ada menu yg wajib dicoba?,tanya_menu_favorit
+Bagaimana cara melakukan pemesanan?,tanya_pemesanan
+"Oke, terima kasih",pamitan
+"Malam, min",sapaan
+Tempatnya berisik banget,keluhan
+"Harga menu di Himar Coffee berapa, ya?",tanya_harga
+Bagaimana cara pesan kopi?,tanya_pemesanan
+"Sore, min",sapaan
+Terima kasih sudah membantu,pamitan
+Apakah ada pertunjukan musik di sini?,tanya_event
+event minggu ini apa?,tanya_event
+Kalian buka jam berapa?,tanya_jam_buka
+Ada rambut di makanan saya,keluhan
+Menu apa saja yang bisa aku pesan?,tanya_menu
+Himar Coffee menyediakan menu apa saja?,tanya_menu
+Tolong berikan alamat Himar Coffee.,tanya_lokasi
+Tolong jelaskan cara memesan menu.,tanya_pemesanan
+Kalau mau pesan menu bagaimana?,tanya_pemesanan
+Himar Coffee di mana ya?,tanya_lokasi
+Jam berapa saya bisa datang ke Himar Coffee?,tanya_jam_buka
+ceritakan lelucon dong,fallback
+Apakah ada layanan pemesanan online?,tanya_pemesanan
+Menu andalan Himar Coffee apa saja?,tanya_menu_favorit
+Ada acara yang bisa diikuti pengunjung?,tanya_event
+Letak kedainya di mana?,tanya_lokasi
+Selamat malam,sapaan
+Kira-kira habis berapa per orang di Himar Coffee?,tanya_harga
+"Hai Himar, mau tanya dong",sapaan
+"Hai, apakah ada yang bisa membantu?",sapaan
+Bagaimana cara menghitung luas segitiga?,fallback
+Ada live music di Himar Coffee?,tanya_event
+Aku mau tahu harga menu kopinya.,tanya_harga
+Apakah bisa pesan sebelum datang ke kedai?,tanya_pemesanan
+Kopi apa yang paling enak di Himar?,tanya_menu_favorit
+Mengapa langit berwarna biru?,fallback
+buka sampai jam berapa kak,tanya_jam_buka
+Mejanya kotor,keluhan
+terima kasih banyak,pamitan
+Kalau mau ke Himar Coffee harus ke mana?,tanya_lokasi
+Bye,pamitan
+Ada event apa minggu ini?,tanya_event
+Harga kopi di sini berapa?,tanya_harga
+Pelayanannya lambat banget,keluhan
+Minggu ini ada acara apa saja?,tanya_event
+Alamat Himar Coffee di mana?,tanya_lokasi
+harga espresso berapa ya,tanya_harga
+Apakah ada acara khusus di sini?,tanya_event
+makasih kak,pamitan
+Berapa harga minumannya?,tanya_harga
+Siang,sapaan
+Tolong tampilkan daftar menunya.,tanya_menu
+"Lokasi kedainya di mana, ya?",tanya_lokasi
+"Kalau mau datang, mulai buka jam berapa?",tanya_jam_buka
+Rekomendasi menu terbaik di Himar Coffee dong.,tanya_menu_favorit
+Bagaimana cara menuju Himar Coffee?,tanya_lokasi
+Toiletnya kotor,keluhan
+tutup jam berapa?,tanya_jam_buka
+Kalau mau order harus menghubungi siapa?,tanya_pemesanan
+Sampai malam masih buka tidak?,tanya_jam_buka
+Himar Coffee Garut lokasinya di mana?,tanya_lokasi
+"Oke, aku pergi dulu",pamitan
+Ada informasi harga menunya?,tanya_harga
+bisa order online ga?,tanya_pemesanan
+Di mana saya bisa memesan menu Himar Coffee?,tanya_pemesanan
+minuman nya kurang es,keluhan
+Bagaimana cara order di sini?,tanya_pemesanan
+cappuccino berapa?,tanya_harga
+pesenan gw lama bgt,keluhan
+menu paling laris apa min?,tanya_menu_favorit
+info event dong min,tanya_event
+Best seller nya apa kak?,tanya_menu_favorit
+Hari ini buka sampai jam berapa?,tanya_jam_buka
+Aku mau melihat pilihan menu di sini.,tanya_menu
+"Halo, saya mau bertanya",sapaan
+Hai kak,sapaan
+Ada nomor untuk pemesanan?,tanya_pemesanan
+dimana tempat nya?,tanya_lokasi
+Tolong beri tahu informasi event terbaru.,tanya_event
+Bisa bantu saya melakukan pemesanan?,tanya_pemesanan
+Halo kak,sapaan
+Bagaimana cara mengedit video di laptop?,fallback
+Himar Coffee buka jam berapa?,tanya_jam_buka
+Nasi gorengnya keasinan,keluhan
+Harga di struk beda sama menu,keluhan
+Minuman paling banyak dicari apa?,tanya_menu_favorit
+kamu punya pacar?,fallback
+Alamat kedai kopinya di mana?,tanya_lokasi
+Bagaimana cara belajar bahasa Inggris?,fallback
+Buka setiap hari dari jam berapa?,tanya_jam_buka
+Bisa kirim lokasi kedainya?,tanya_lokasi
+Makasih atas bantuannya,pamitan
+"Baik, makasih",pamitan
+Tiket event saya tidak bisa dipakai,keluhan
+Hello,sapaan
+community gathering kapan?,tanya_event
+Aku mau tahu acara yang akan datang.,tanya_event
+Sampai bertemu kembali,pamitan
+"Sekian dulu, terima kasih",pamitan
+Aku mau lihat daftar menu Himar Coffee.,tanya_menu
+Jam operasionalnya dari jam berapa sampai jam berapa?,tanya_jam_buka
+ada event apa aja?,tanya_event
+menu favorit pelanggan apa aja ya,tanya_menu_favorit
+cuaca hari ini gimana?,fallback
+Boleh tahu jam buka Himar Coffee?,tanya_jam_buka
+Minuman di sini harganya berapa?,tanya_harga
+ada buka malam ga?,tanya_jam_buka
+Aku ingin tahu daftar makanan dan minumannya.,tanya_menu
+Apakah harga menunya terjangkau?,tanya_harga
+resep nasi goreng,fallback
+Event berikutnya kapan diadakan?,tanya_event
+Hello kak,sapaan
+sip makasih min,pamitan
+Himar Coffee mulai buka pukul berapa setiap hari?,tanya_jam_buka
+"Saya ingin melakukan order, bagaimana caranya?",tanya_pemesanan
+share lokasi dong,tanya_lokasi
+Produk unggulan Himar Coffee apa?,tanya_menu_favorit
+Cappuccino nya rasanya aneh,keluhan
+Makanan favorit di Himar Coffee apa?,tanya_menu_favorit
+Rata-rata pengeluaran per orang berapa?,tanya_harga
+Berapa kisaran harga menu di sini?,tanya_harga
+Bagaimana proses pemesanan di Himar Coffee?,tanya_pemesanan
+Kalau harga kopinya berapa?,tanya_harga
+Di mana saya bisa menemukan Himar Coffee?,tanya_lokasi
+Permisi,sapaan
+Aku ingin melihat semua menu yang ada.,tanya_menu
+Bisa kasih tahu menu yang tersedia?,tanya_menu
+Cara memesan di Himar Coffee bagaimana?,tanya_pemesanan
+Himar Coffee ada di mana?,tanya_lokasi
+jam operasional nya gimana?,tanya_jam_buka
+Permisi min,sapaan
+Di daerah mana Himar Coffee berada?,tanya_lokasi
+Berapa hasil dari 125 dibagi 5?,fallback
+Bagaimana cara membuat presentasi di Canva?,fallback
+Apakah kedai buka pada malam hari?,tanya_jam_buka
+Hy,sapaan
+Aku ingin melihat semua produk Himar Coffee.,tanya_menu
+Bagaimana cara membuat website sederhana?,fallback
+Kisaran harga makanan di sini berapa?,tanya_harga
+Ada kegiatan apa dalam waktu dekat?,tanya_event
+nasi goreng harganya brp,tanya_harga
+Apakah pemesanan bisa lewat WhatsApp?,tanya_pemesanan
+Bye bye,pamitan
+Biasanya Himar Coffee tutup pukul berapa?,tanya_jam_buka
+Boleh lihat pilihan produk Himar Coffee?,tanya_menu
+Menu kopi di Himar Coffee mulai dari harga berapa?,tanya_harga
+jadwal nobar kapan?,tanya_event
+Aku pamit dulu ya,pamitan
+Sore kak,sapaan
+Himar Coffee di Garut dimana tepatnya?,tanya_lokasi
+Selamat siang,sapaan
+menunya apa aja ya,tanya_menu
+siapa pemain bola terbaik dunia?,fallback
+Ada acara menarik yang akan datang?,tanya_event
+Bagaimana cara merawat tanaman di rumah?,fallback
+thanks,pamitan
+"Makasih, aku tutup dulu ya",pamitan
+Apakah bisa pesan secara online?,tanya_pemesanan
+Boleh tahu jadwal event Himar Coffee?,tanya_event
+Thank you,pamitan
+Ada rekomendasi menu yang populer?,tanya_menu_favorit
+Aku mau cek katalog menu.,tanya_menu
+Ada menu andalan apa di Himar Coffee?,tanya_menu_favorit
+Apa yang wajib dicoba kalau pertama kali ke sini?,tanya_menu_favorit
+Sampai jumpa,pamitan
+Pesanan ShopeeFood saya telat sampai,keluhan
+Ada pilihan makanan dan minuman apa saja?,tanya_menu
+ada acara apa bulan ini kak?,tanya_event
+Apa manfaat olahraga secara teratur?,fallback
+Apa yang paling enak di sini?,tanya_menu_favorit
+Bisa tunjukkan lokasi kedainya?,tanya_lokasi
+asdfgh,fallback
+Bisa kasih tahu waktu buka dan tutupnya?,tanya_jam_buka
+Menu yang paling disukai pelanggan apa?,tanya_menu_favorit
+Kedainya tutup pukul berapa malam ini?,tanya_jam_buka
+Jam tutup kedainya pukul berapa?,tanya_jam_buka
+"Halo, admin",sapaan
+Apa minuman yang jadi favorit pelanggan Himar?,tanya_menu_favorit
+"Hai, Himar Coffee",sapaan
+"Kalau dari pusat Garut, kedainya ada di mana?",tanya_lokasi
+Ada daftar makanan dan minumannya?,tanya_menu
+Minumannya kurang manis banget,keluhan
+alamatnya dimana?,tanya_lokasi
+"Thanks, bye",pamitan
+harga menu nya brp kak,tanya_harga
+"udah cukup, makasih",pamitan
+Bagaimana cara mengatur waktu belajar?,fallback
+Saya pergi dulu,pamitan
+"Terima kasih, sampai jumpa",pamitan
+hari ini buka ga?,tanya_jam_buka
+Kopinya kok dingin?,keluhan
+Selamat pagi kak,sapaan
+Porsinya kok sedikit banget,keluhan
+Minumannya terlalu manis,keluhan
+apa makanan terlaris di sini?,tanya_menu_favorit
+Sampai ketemu lagi,pamitan
+Himar Coffee ada di sekitar mana?,tanya_lokasi
+Menu favorit di Himar apa saja?,tanya_menu_favorit
+Berapa hasil dari 15 dikali 8?,fallback
+"Saya mau membeli menu, bagaimana cara pesannya?",tanya_pemesanan
+cara order gimana kak,tanya_pemesanan
+ada makanan sama minuman apa aja?,tanya_menu
+Ada acara komunitas di Himar Coffee?,tanya_event
+Apa menu favorit di Himar Coffee?,tanya_menu_favorit
+Hai,sapaan
+Bisa kasih gambaran menu yang dijual?,tanya_menu
+Berapa harga setiap menu di sini?,tanya_harga
+Selamat tinggal,pamitan
+Apa saja pilihan menu di kafe ini?,tanya_menu
+rekomendasiin menu dong,tanya_menu_favorit
+Aku ingin melihat daftar harga Himar Coffee.,tanya_harga
+Tolong tampilkan katalog menu.,tanya_menu
+"bingung mau pesen apa, ada saran?",tanya_menu_favorit
+Apa manfaat membaca buku setiap hari?,fallback
+"Permisi, halo",sapaan
+gimana cara beli tiket live music?,tanya_pemesanan
+Harga minuman paling murah berapa?,tanya_harga
+Budget per orang di sini berapa?,tanya_harga
+Ada tautan Maps untuk menuju ke sana?,tanya_lokasi
+harga kopi di Starbucks berapa?,fallback
+Kode Order ID saya tidak valid,keluhan
+Kalau pagi sudah buka belum?,tanya_jam_buka
+kedai nya di daerah mana?,tanya_lokasi
+Saya sudah bayar tapi pesanan belum diproses,keluhan
+oke makasih ya,pamitan
+Hallo,sapaan
+Menu paling populer di Himar apa?,tanya_menu_favorit
+Menu yang tersedia bisa dilihat di mana?,tanya_menu
+Bisa pesan menu dari rumah?,tanya_pemesanan
+Kalau mau pesan untuk dibawa pulang bisa?,tanya_pemesanan
+makanan nya gk enak,keluhan
+Apakah saya bisa memesan dari website?,tanya_pemesanan
+Bisa pesan minuman lewat WhatsApp?,tanya_pemesanan
+Apa makanan dan minuman yang paling laris?,tanya_menu_favorit
+Di mana aku bisa melihat katalog menu Himar?,tanya_menu
+Pesanan saya belum datang dari tadi,keluhan
+Apa saja planet yang ada di tata surya?,fallback
+"Halo, ada admin?",sapaan
+pagi,sapaan
+pesen dari rumah bisa?,tanya_pemesanan
+"Patokan lokasi Himar Coffee apa, ya?",tanya_lokasi
+Harga makanan berat mulai dari berapa?,tanya_harga
+Bisa diarahkan ke WhatsApp untuk memesan?,tanya_pemesanan
+buka jam brp?,tanya_jam_buka
+Makanannya sudah dingin pas datang,keluhan
+liat menu dong,tanya_menu
+gimana cara pesennya?,tanya_pemesanan
+Boleh minta alamat lengkapnya?,tanya_lokasi
+Kalau sore masih buka?,tanya_jam_buka
+Aku mau tahu lokasi kedainya.,tanya_lokasi
+Kapan ada event lagi?,tanya_event
+Tolong beri tahu harga kopi yang tersedia.,tanya_harga
+cara membuat kopi sendiri di rumah,fallback
+"Baik, sampai nanti",pamitan
+Kedai ini buka pukul berapa?,tanya_jam_buka
+pesenan saya salah bgt,keluhan
+Malam,sapaan
+Cara order minuman lewat internet bagaimana?,tanya_pemesanan
+Berapa harga menu yang tersedia?,tanya_harga
+Kalau akhir pekan ada event tidak?,tanya_event
+enaknya pesan apa ya kak?,tanya_menu_favorit
+Stafnya kurang sopan,keluhan
+Apakah bulan ini ada event?,tanya_event

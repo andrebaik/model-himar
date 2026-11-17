@@ -1,0 +1,21 @@
+# Dependency training + inference model intent Himar Coffee.
+# Install: uv pip install -r requirements.txt  (atau: .venv/bin/pip install -r requirements.txt)
+# Catatan: tidak butuh GPU; CPU biasa sudah lebih dari cukup.
+
+scikit-learn>=1.9
+pandas>=2.2
+numpy>=1.26
+joblib>=1.4
+
+# Hanya untuk visualisasi di notebook
+matplotlib>=3.8
+seaborn>=0.13
+
+# Jupyter (notebook train_intent.ipynb)
+jupyterlab>=4.2
+nbconvert>=7.16
+ipykernel>=6.29
+
+# REST API lokal (app.py)
+fastapi>=0.115
+uvicorn>=0.30
